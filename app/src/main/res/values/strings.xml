@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ticTacToe</string>
+    <string name="winner_is">Congratulations!! The winner is \u0020 </string>
+    <string name="restart">Restart</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="app_home_page">app home page</string>
+</resources>
